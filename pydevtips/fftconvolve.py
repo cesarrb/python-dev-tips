@@ -1,6 +1,8 @@
 import numpy as np
 from abc import abstractmethod
-
+'''
+comment
+'''
 
 class FFTConvolveBase:
     """Abstract class for FFT convolve."""
